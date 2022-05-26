@@ -1,17 +1,14 @@
 :root {
     --saab-blue:#00285D;
-
 }
 
 body {
-    background-color:var(--main-color);
     display: flex;
     justify-content: center;
 }
 main {
     width: 70%;
     padding: 2rem;
-    background-color: var(--lighter-color);
 }
 .divider {
     background-color: var(--saab-blue);
@@ -25,9 +22,6 @@ main {
 }
 .sm {
     height: 2px;
-}
-section {
-
 }
 .row {
     display: flex;
