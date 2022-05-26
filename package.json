@@ -1,0 +1,24 @@
+{
+  "name": "02_fcc_rwd_build-a-tribute-page",
+  "version": "1.0.0",
+  "description": "This project is a part of freeCodeCamp \"Responsive Web Design\" course cetrification project list.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DainiusMI/01_FCC_RWD_Build-a-Survey-Form.git"
+  },
+  "keywords": [],
+  "author": "DainiusMI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DainiusMI/01_FCC_RWD_Build-a-Survey-Form/issues"
+  },
+  "homepage": "https://github.com/DainiusMI/01_FCC_RWD_Build-a-Survey-Form#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}

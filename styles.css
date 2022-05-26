@@ -1,0 +1,62 @@
+:root {
+    --saab-blue:#00285D;
+
+}
+
+body {
+    background-color:var(--main-color);
+    display: flex;
+    justify-content: center;
+}
+main {
+    width: 70%;
+    padding: 2rem;
+    background-color: var(--lighter-color);
+}
+.divider {
+    background-color: var(--saab-blue);
+    width: 100%;
+}
+.bg {
+    height: 10px;
+}
+.md {
+    height: 5px;
+}
+.sm {
+    height: 2px;
+}
+section {
+
+}
+.row {
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+}
+.logo {
+    background-image: url(./Saab-logo.png);
+    background-size: contain;
+    height: 5rem;
+    width: 6rem;
+}
+#img-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#image {
+    height: auto;
+    max-width: 100%;
+}
+li:not(:first-of-type) {
+    margin-top: 5px;
+}
+a {
+    text-decoration: none;
+    color: var(--saab-blue);
+}
+p, a {
+    font-style: italic;
+}
