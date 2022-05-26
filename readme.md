@@ -9,13 +9,5 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-pa
 https://tribute-page.freecodecamp.rocks/
 
 #### LINK TO MY SOLUTION:
-=======
-#### LINK TO THE TASK:
-https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form
+https://dainiusmi.github.io/02_FCC_RWD_Build-a-Tribute-Page/
 
-#### LINK TO THE GIVEN EXAMPLE:
-https://codepen.io/freeCodeCamp/full/VPaoNP
-
-#### LINK TO MY SOLUTION:
-https://dainiusmi.github.io/01_FCC_RWD_Build-a-Survey-Form/
->>>>>>> 6ba4fcf4965f33988548b7aa1649f0c8b9e63468
